@@ -2,7 +2,9 @@
 
 A full-stack project. A FastAPI backend serves a hybrid recommender (content-based plus collaborative filtering)
 with an adaptive feedback loop, and a Streamlit frontend gives students and teachers an accessible interface.
+## Live app
 
+[Open AccessLearn](https://accesslearn-dmvmkc9fmpt3lgp7zlpnjv.streamlit.app/)
 ## Quick start
 
 Requires Python 3.10 or newer.
